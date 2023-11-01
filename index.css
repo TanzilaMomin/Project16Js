@@ -1,0 +1,23 @@
+#main{
+    border: 5px outset rgb(207, 220, 187);
+    padding: 20px;
+    width: 900px;
+    background-color: rgb(217, 237, 222);
+    box-shadow: 10px 10px 10px grey;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-radius:0 90px 0 90px ;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(177, 233, 215);
+    border: none;
+    margin: 10px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius:  25px;
+    padding: 10px;
+}
+li{
+    color: blue;
+}
